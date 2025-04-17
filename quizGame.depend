@@ -1,0 +1,140 @@
+# depslib dependency file v1.0
+1716229887 source:c:\cpp\demosdl\demosdl\quizgame1.1.1\quizgame\initsdl.cpp
+	<iostream>
+	<SDL.h>
+	"initSDL.h"
+
+1716229598 c:\cpp\demosdl\demosdl\quizgame1.1.1\quizgame\initsdl.h
+	<SDL.h>
+
+1716405212 source:c:\cpp\demosdl\demosdl\quizgame1.1.1\quizgame\renderimage.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	"renderImage.h"
+	"loadMixer.h"
+
+1716405212 c:\cpp\demosdl\demosdl\quizgame1.1.1\quizgame\renderimage.h
+	<SDL.h>
+
+1716405369 source:c:\cpp\demosdl\demosdl\quizgame1.1.1\quizgame\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	"initSDL.h"
+	"renderImage.h"
+	"renderText.h"
+	"logic.h"
+	"loadMixer.h"
+
+1716287449 c:\cpp\demosdl\demosdl\quizgame1.1.1\quizgame\rendertext.h
+	<SDL.h>
+
+1716405828 source:c:\cpp\demosdl\demosdl\quizgame1.1.1\quizgame\rendertext.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_ttf.h>
+	"renderText.h"
+
+1716121236 source:c:\cpp\demosdl\demosdl\quizgame1.1.1\quizgame\mouse.cpp
+	<iostream>
+	<SDL.h>
+	"mouse.h"
+
+1716121236 c:\cpp\demosdl\demosdl\quizgame1.1.1\quizgame\mouse.h
+	<iostream>
+	<SDL.h>
+
+1716428257 source:c:\cpp\demosdl\demosdl\quizgame1.1.1\quizgame\logic.cpp
+	<iostream>
+	<fstream>
+	"renderText.h"
+	"renderImage.h"
+	"logic.h"
+	"loadMixer.h"
+
+1716428251 c:\cpp\demosdl\demosdl\quizgame1.1.1\quizgame\logic.h
+	<SDL.h>
+	<vector>
+	"renderImage.h"
+
+1716370774 source:c:\cpp\demosdl\demosdl\quizgame1.1.1\quizgame\loadmixer.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_mixer.h>
+	<thread>
+	"loadMixer.h"
+	"logic.h"
+
+1716370810 c:\cpp\demosdl\demosdl\quizgame1.1.1\quizgame\loadmixer.h
+	<SDL.h>
+
+1716229887 source:d:\cpp\demosdl\demosdl\quizgame1.1.1\quizgame\initsdl.cpp
+	<iostream>
+	<SDL.h>
+	"initSDL.h"
+
+1716229598 d:\cpp\demosdl\demosdl\quizgame1.1.1\quizgame\initsdl.h
+	<SDL.h>
+
+1716370774 source:d:\cpp\demosdl\demosdl\quizgame1.1.1\quizgame\loadmixer.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_mixer.h>
+	<thread>
+	"loadMixer.h"
+	"logic.h"
+
+1716370810 d:\cpp\demosdl\demosdl\quizgame1.1.1\quizgame\loadmixer.h
+	<SDL.h>
+
+1716428251 d:\cpp\demosdl\demosdl\quizgame1.1.1\quizgame\logic.h
+	<SDL.h>
+	<vector>
+	"renderImage.h"
+
+1716405212 d:\cpp\demosdl\demosdl\quizgame1.1.1\quizgame\renderimage.h
+	<SDL.h>
+
+1716428257 source:d:\cpp\demosdl\demosdl\quizgame1.1.1\quizgame\logic.cpp
+	<iostream>
+	<fstream>
+	"renderText.h"
+	"renderImage.h"
+	"logic.h"
+	"loadMixer.h"
+
+1716287449 d:\cpp\demosdl\demosdl\quizgame1.1.1\quizgame\rendertext.h
+	<SDL.h>
+
+1716405369 source:d:\cpp\demosdl\demosdl\quizgame1.1.1\quizgame\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	"initSDL.h"
+	"renderImage.h"
+	"renderText.h"
+	"logic.h"
+	"loadMixer.h"
+
+1716405212 source:d:\cpp\demosdl\demosdl\quizgame1.1.1\quizgame\renderimage.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	"renderImage.h"
+	"loadMixer.h"
+
+1716405828 source:d:\cpp\demosdl\demosdl\quizgame1.1.1\quizgame\rendertext.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_ttf.h>
+	"renderText.h"
+
