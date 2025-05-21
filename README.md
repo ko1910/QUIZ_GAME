@@ -14,7 +14,6 @@
 - Thư viện SDL2.0
 - Sử dụng cấu trúc struct, vector, các loại hàm,...
 - Xử lý thao tác chuột, âm thanh, hình ảnh, chữ.
-- 
 ## *Nguồn tham khảo* 
 
 - Sử dụng [Chat GPT](https://chatgpt.com/?oai-dm=1) để sửa lỗi, xây dựng 1 số hàm và optimize code.
