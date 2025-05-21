@@ -9,6 +9,7 @@
 
 ### 
 - "LITTLE MINIONS GAME" là một tựa game giáo dục và giải trí, được thiết kế để thách thức và nâng cao kiến thức của người chơi thông qua việc trả lời các câu hỏi từ nhiều lĩnh vực khác nhau.
+- 🔗 [Click để xem video demo](https://drive.google.com/file/d/1Xl5xNwOBZsUJ7ax8p7JclkX8fbxcwNYR/view?usp=sharing)
 
 ## *Các kỹ thuật sử dụng*  
 - Thư viện SDL2.0
